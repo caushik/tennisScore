@@ -5,5 +5,5 @@
 # "1" for Player 1
 # "2" for Player 2 
 
-![Alt text](tennisScore/Capture 1.png?raw=true "Optional Title")
+![Alt text](tennisScore/Capture 1.PNG?raw=true "Optional Title")
 ![Alt text](./Capture 2.png?raw=true "Optional Title")
