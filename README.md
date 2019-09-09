@@ -4,6 +4,6 @@
 # Run the Tennis.java program and Enter "1" or "2"
 # "1" for Player 1
 # "2" for Player 2 
-
+# Sample screenshot of the program run
 ![image](https://github.com/caushik/tennisScore/blob/master/Capture%201.PNG)
-![Alt text](/tennisScore/Capture 2.PNG?raw=true "Optional Title")
+![image](https://github.com/caushik/tennisScore/blob/master/Capture%202.PNG)
