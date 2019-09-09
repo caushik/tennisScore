@@ -1,5 +1,3 @@
-package com.tennis;
-
 import java.util.Scanner;
 
 public class Tennis {

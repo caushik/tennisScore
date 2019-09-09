@@ -1,7 +1,4 @@
-package com.tennis;
-
 import java.util.*;
-
 
 public class ScoreUtil {
 
